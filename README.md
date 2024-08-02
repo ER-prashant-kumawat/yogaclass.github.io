@@ -1,2 +1,3 @@
 # yogaclass.github.io
-Yoga class
+Yoga class file
+
